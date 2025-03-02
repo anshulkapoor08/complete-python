@@ -1,0 +1,9 @@
+Modules is like a code library which can be used to borrow code from others.
+
+example : pandas
+
+two types of modules:
+ 
+  * Built in modules (inside python, written by experts) 
+    ex: ghar mai plate and chammach
+  * External modules (build by others people)

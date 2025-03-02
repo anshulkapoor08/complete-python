@@ -1,0 +1,21 @@
+*we use programming language to talk with computers.
+
+*dynamically typed, general purpose programming language, object oriented, functional approach supportive
+
+*By Guido Van Rossum in 1989.
+
+*platform independent
+
+*Supports various libraries.
+
+*Integration is easy with other language
+
+*Applications: Data visualization
+               Graphical representative
+               Data Analytics
+               AI and ML
+               Web Applications
+               handle databases
+
+
+

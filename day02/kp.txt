@@ -1,0 +1,9 @@
+Power of python
+  
+  Applications
+   
+   JarvisVirtual Assistant
+   love calculator
+   face recognition
+   flappybird game
+   snake game
