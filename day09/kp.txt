@@ -1,0 +1,20 @@
+Type casting in python
+ 
+the conversion of one data in another data type is known as type casting in python or type conversion in python
+
+* Python supports a wide variety of functions or methods such as:
+int(), float(), str(), ord(), hex(), oct(), tuple(), set(), list(), dict() etc.
+
+two types of type casting 
+ explicit
+ implicit
+
+# python supports a wide variety of functions or methods like : int(), float(), str(), bool(), list(), tuple(), set(), dict()
+# int() : converts a number or string to an integer
+# float() : converts a number or string to a float
+# str() : converts a number or float to a string
+# bool() : converts a number or string to a boolean
+# list() : converts a number or string to a list
+# tuple() : converts a number or string to a tuple
+# set() : converts a number or string to a set
+# dict() : converts a number or string to a dictionary

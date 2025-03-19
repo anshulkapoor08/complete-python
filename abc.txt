@@ -1,0 +1,7 @@
+*Whenever we take input, interpreter use that as a string so whenver we want to use that variable we do type casting.
+
+alt + shift + down arrrow : for replication of line towards down.
+
+alt + click of mouse: for multiple cursor at a time.
+
+ctrl + / : for comment line

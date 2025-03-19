@@ -1,0 +1,10 @@
+islower(): return true if all the characters of the string is lower case.
+
+isprintable():return true if all the values within the given string are printable, if not then return false.
+ex: "\n"
+
+isspace(): Return true if we use white space in our text.
+
+istitle(): Return true if first letter of each word is capitalize.
+
+title(): this method capitalizes each letter of the word within the string.
